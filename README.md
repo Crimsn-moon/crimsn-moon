@@ -79,7 +79,7 @@ Includes:
 
 ---
 
-## 🎓 Goals for 2025
+## 🎓 Goals for 2026
 - Build 4–5 strong finance & ML projects  
 - Start preparing for quant roles  
 - Complete probability + ML foundations  
