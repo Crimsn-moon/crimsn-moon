@@ -50,8 +50,7 @@ Includes:
 
 ### **Languages**
 - Python  
-- SQL  
-- Markdown  
+- SQL   
 - (Learning) R & C++ for quant roles  
 
 ### **Libraries & Tools**
